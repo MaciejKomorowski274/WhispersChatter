@@ -1,0 +1,107 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+    background-image: url("https://images.hdqwalls.com/download/cyberpunk-city-night-view-4k-8l-1920x1080.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 300vh;
+}
+
+
+header {
+    padding: 10px;
+    text-align: center;
+    background-color: #2E1D1E;
+    color: #EE4040;
+    font-size: 40px;
+    text-shadow: 2px 2px black;
+    border: 3px solid #EE4040;
+    position: relative;
+}
+
+#wiadomosci {
+    padding-bottom: 30%;
+}
+
+li {
+    list-style-type: none;
+    margin-bottom: 10px;
+    background-color: #6929ca;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    width: 50%;
+}
+
+li span {
+    font-style: italic;
+    font-weight: bolder;
+    color: #b5b0b9;
+}
+
+#chat {
+    width: 80%;
+    margin: auto;
+    background-color: transparent;
+}
+
+#formularz {
+    align-self: center;
+    text-align: center;
+    position: relative;
+    padding: 10px;
+    bottom: 0;
+    background-color: #004E41;
+    color: #EE4040;
+    border: 3px solid #21A992;
+}
+
+input {
+    width: 69%;
+    height: 30px;
+    background-color: #21A992;
+}
+
+button {
+    width: 29%;
+    height: 38px;
+    font-weight: bold;
+    text-shadow: 2px 2px black ;
+    background-color: #2E1D1E;
+    color: #EE4040;
+    border: 3px solid #EE4040;
+}
+
+.lewa {
+    text-align: right;
+    background-color: #2E1D1E;
+    border: 3px solid #FFDF29;
+    color: #FFDF29;
+    margin-left: 60%;
+    font-size: 20px;
+}
+
+.lewa span 
+{
+    margin-left: 5px;
+    color: #766502;
+}
+
+.prawa {
+    text-align: left;
+    background-color: #004E41;
+    border: 3px solid #21A992;
+    color: #21A992;
+    font-size: 20px;
+    margin-left: -16%;
+}
+
+.prawa span 
+{
+    margin-left: 5px;
+    color: #197D6C;
+}
+
