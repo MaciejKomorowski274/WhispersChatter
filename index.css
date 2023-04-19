@@ -2,7 +2,8 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 960px;
-    background-image: url("https://images.hdqwalls.com/download/cyberpunk-city-night-view-4k-8l-1920x1080.jpg");
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,9,1) 46%, rgba(159,0,0,1) 100%);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
